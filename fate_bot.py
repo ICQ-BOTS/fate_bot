@@ -25,10 +25,9 @@ log = logging.getLogger(__name__)
 
 
 NAME = "ball_of_fate2"
-VERSION = "0.0.1"
-TOKEN = '001.2918970001.1540231839:753423284'
-loop = asyncio.get_event_loop()
+TOKEN = "***.**********.**********:*********"
 
+loop = asyncio.get_event_loop()
 bot = Bot(token=TOKEN, name=NAME)
 
 # Register your handlers here
