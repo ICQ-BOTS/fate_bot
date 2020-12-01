@@ -1,10 +1,19 @@
-<img src="https://github.com/ICQ-BOTS/fate_bot/blob/main/fate.png" width="100" height="100">
+
+# [Нейрогадалка](https://icq.im/fate_bot)
+
+<a href="https://icq.im/fate_bot"><img src="https://github.com/ICQ-BOTS/fate_bot/blob/main/fate.png" width="100" height="100"></a>
+
+# Оглавление 
+ - [Описание](https://github.com/ICQ-BOTS/fate_bot#описание)
+ - [Установка](https://github.com/ICQ-BOTS/fate_bot#установка)
+ - [Скриншоты работы](https://github.com/ICQ-BOTS/fate_bot#скриншоты-работы)
 
 
-# Нейрогадалка
-[Нейрогадалка](https://icq.im/fate_bot)
+# Описание
+Гадает, отвечает на вопросы да/нет, предсказывает будущие!
 
-Старт:
+# Установка
+
 1. Установка всех зависимостей 
 ```bash
 pip install -r requirements.txt
@@ -27,3 +36,8 @@ python3 push_tarantool.py
 ```bash
 python3 fate_bot.py
 ```
+
+
+# Скриншоты работы
+<img src="https://github.com/ICQ-BOTS/fate_bot/blob/main/img/1.png" width="400">
+<img src="https://github.com/ICQ-BOTS/fate_bot/blob/main/img/2.png" width="400">
